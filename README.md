@@ -1,2 +1,2 @@
 # myPortfolio
-[MYPORTFOLIO](https://naman26jain.github.io/myPortfolio/)
+[VISITMYPORTFOLIO](https://naman26jain.github.io/myPortfolio/)
